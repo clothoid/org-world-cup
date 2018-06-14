@@ -2,7 +2,6 @@
 #+TITLE: 2018 FIFA World Cup
 #+CATEGORY: Football
 
-
 # JST-6
 #+HEADERS: :var n=6
 #+begin_src emacs-lisp :results silent
@@ -13,376 +12,376 @@
       (org-timestamp-change n 'hour))))
 #+end_src
 
-* Group A                                                   :WorldCup:GroupA:
+* [#C] Group A                                              :WorldCup:GroupA:
   - Note taken on [2018-06-14 Thu 08:27] \\
     - Russia
     - Saudi Arabia
     - Egypt
     - Uruguay
-** 1. Russia v Saudi Arabia                                        :WorldCup:
+** [#C] 1. Russia v Saudi Arabia                                   :WorldCup:
    SCHEDULED: <2018-06-15 Fri 00:00>
    :PROPERTIES:
    :LOCATION: Luzhniki Stadium, Moscow
    :END:
-** 2. Egypt v Uruguay                                              :WorldCup:
+** [#C] 2. Egypt v Uruguay                                         :WorldCup:
    SCHEDULED: <2018-06-15 Fri 21:00>
    :PROPERTIES:
    :LOCATION: Ekaterinburg Stadium
    :END:
-** 17. Russia v Egypt                                              :WorldCup:
+** [#C] 17. Russia v Egypt                                         :WorldCup:
    SCHEDULED: <2018-06-20 Wed 03:00>
    :PROPERTIES:
    :LOCATION: Saint Petersburg Stadium
    :END:
-** 18. Uruguay v Saudi Arabia                                      :WorldCup:
+** [#C] 18. Uruguay v Saudi Arabia                                 :WorldCup:
    SCHEDULED: <2018-06-21 Thu 00:00>
    :PROPERTIES:
    :LOCATION: Rostov-on-Don Stadium
    :END:
-** 33. Uruguay v Russia                                            :WorldCup:
+** [#C] 33. Uruguay v Russia                                       :WorldCup:
    SCHEDULED: <2018-06-25 Mon 23:00>
    :PROPERTIES:
    :LOCATION: Samara Stadium
    :END:
-** 34. Saudi Arabia v Egypt                                        :WorldCup:
+** [#C] 34. Saudi Arabia v Egypt                                   :WorldCup:
    SCHEDULED: <2018-06-25 Mon 23:00>
    :PROPERTIES:
    :LOCATION: Volgograd Stadium
    :END:
-* Group B                                                   :WorldCup:GroupB:
+* [#C] Group B                                              :WorldCup:GroupB:
   - Note taken on [2018-06-14 Thu 08:27] \\
     - Morocco
     - Iran
     - Portugal
     - Spain
-** 3. Morocco v Iran                                               :WorldCup:
+** [#C] 3. Morocco v Iran                                          :WorldCup:
    SCHEDULED: <2018-06-16 Sat 00:00>
    :PROPERTIES:
    :LOCATION: Saint Petersburg Stadium
    :END:
-** 4. Portugal v Spain                                             :WorldCup:
+** [#C] 4. Portugal v Spain                                        :WorldCup:
    SCHEDULED: <2018-06-16 Sat 03:00>
    :PROPERTIES:
    :LOCATION: Fisht Stadium, Sochi
    :END:
-** 19. Portugal v Morocco                                          :WorldCup:
+** [#C] 19. Portugal v Morocco                                     :WorldCup:
    SCHEDULED: <2018-06-20 Wed 21:00>
    :PROPERTIES:
    :LOCATION: Luzhniki Stadium, Moscow
    :END:
-** 20. Iran v Spain                                                :WorldCup:
+** [#C] 20. Iran v Spain                                           :WorldCup:
    SCHEDULED: <2018-06-21 Thu 03:00>
    :PROPERTIES:
    :LOCATION: Kazan Arena
    :END:
-** 35. Iran v Portugal                                             :WorldCup:
+** [#C] 35. Iran v Portugal                                        :WorldCup:
    SCHEDULED: <2018-06-26 Tue 03:00>
    :PROPERTIES:
    :LOCATION: Saransk Stadium
    :END:
-** 36. Spain v Morocco                                             :WorldCup:
+** [#C] 36. Spain v Morocco                                        :WorldCup:
    SCHEDULED: <2018-06-26 Tue 03:00>
    :PROPERTIES:
    :LOCATION: Kaliningrad Stadium
    :END:
-* Group C                                                   :WorldCup:GroupC:
+* [#C] Group C                                              :WorldCup:GroupC:
   - Note taken on [2018-06-14 Thu 08:28] \\
     France
     Australia
     Peru
     Denmark
-** 5. France v Australia                                           :WorldCup:
+** [#C] 5. France v Australia                                      :WorldCup:
    SCHEDULED: <2018-06-16 Sat 19:00>
    :PROPERTIES:
    :LOCATION: Kazan Arena
    :END:
-** 6. Peru v Denmark                                               :WorldCup:
+** [#C] 6. Peru v Denmark                                          :WorldCup:
    SCHEDULED: <2018-06-17 Sun 01:00>
    :PROPERTIES:
    :LOCATION: Saransk Stadium
    :END:
-** 22. Denmark v Australia                                         :WorldCup:
+** [#C] 22. Denmark v Australia                                    :WorldCup:
    SCHEDULED: <2018-06-21 Thu 21:00>
    :PROPERTIES:
    :LOCATION: Samara Stadium
    :END:
-** 21. France v Peru                                               :WorldCup:
+** [#C] 21. France v Peru                                          :WorldCup:
    SCHEDULED: <2018-06-22 Fri 00:00>
    :PROPERTIES:
    :LOCATION: Ekaterinburg Stadium
    :END:
-** 37. Denmark v France                                            :WorldCup:
+** [#C] 37. Denmark v France                                       :WorldCup:
    SCHEDULED: <2018-06-26 Tue 23:00>
    :PROPERTIES:
    :LOCATION: Luzhniki Stadium, Moscow
    :END:
-** 38. Australia v Peru                                            :WorldCup:
+** [#C] 38. Australia v Peru                                       :WorldCup:
    SCHEDULED: <2018-06-26 Tue 23:00>
    :PROPERTIES:
    :LOCATION: Fisht Stadium, Sochi
    :END:
-* Group D                                                   :WorldCup:GroupD:
+* [#C] Group D                                              :WorldCup:GroupD:
   - Note taken on [2018-06-14 Thu 08:28] \\
     - Argentina
     - Iceland
     - Croatia
     - Nigeria
-** 7. Argentina v Iceland                                          :WorldCup:
+** [#C] 7. Argentina v Iceland                                     :WorldCup:
    SCHEDULED: <2018-06-16 Sat 22:00>
    :PROPERTIES:
    :LOCATION: Otkrytiye Arena, Moscow
    :END:
-** 8. Croatia v Nigeria                                            :WorldCup:
+** [#C] 8. Croatia v Nigeria                                       :WorldCup:
    SCHEDULED: <2018-06-17 Sun 04:00>
    :PROPERTIES:
    :LOCATION: Kaliningrad Stadium
    :END:
-** 23. Argentina v Croatia                                         :WorldCup:
+** [#C] 23. Argentina v Croatia                                    :WorldCup:
    SCHEDULED: <2018-06-22 Fri 03:00>
    :PROPERTIES:
    :LOCATION: Nizhny Novgorod Stadium
    :END:
-** 24. Nigeria v Iceland                                           :WorldCup:
+** [#C] 24. Nigeria v Iceland                                      :WorldCup:
    SCHEDULED: <2018-06-23 Sat 00:00>
    :PROPERTIES:
    :LOCATION: Volgograd Stadium
    :END:
-** 39. Nigeria v Argentina                                         :WorldCup:
+** [#C] 39. Nigeria v Argentina                                    :WorldCup:
    SCHEDULED: <2018-06-27 Wed 03:00>
    :PROPERTIES:
    :LOCATION: Saint Petersburg Stadium
    :END:
-** 40. Iceland v Croatia                                           :WorldCup:
+** [#C] 40. Iceland v Croatia                                      :WorldCup:
    SCHEDULED: <2018-06-27 Wed 03:00>
    :PROPERTIES:
    :LOCATION: Rostov-on-Don Stadium
    :END:
-* Group E                                                   :WorldCup:GroupE:
+* [#C] Group E                                              :WorldCup:GroupE:
   - Note taken on [2018-06-14 Thu 08:28] \\
     - Costa Rica
     - Serbia
     - Brazil
     - Switzerland
-** 10. Costa Rica v Serbia                                         :WorldCup:
+** [#C] 10. Costa Rica v Serbia                                    :WorldCup:
    SCHEDULED: <2018-06-17 Sun 21:00>
    :PROPERTIES:
    :LOCATION: Samara Stadium
    :END:
-** 9. Brazil v Switzerland                                         :WorldCup:
+** [#C] 9. Brazil v Switzerland                                    :WorldCup:
    SCHEDULED: <2018-06-18 Mon 03:00>
    :PROPERTIES:
    :LOCATION: Rostov-on-Don Stadium
    :END:
-** 25. Brazil v Costa Rica                                         :WorldCup:
+** [#C] 25. Brazil v Costa Rica                                    :WorldCup:
    SCHEDULED: <2018-06-22 Fri 21:00>
    :PROPERTIES:
    :LOCATION: Saint Petersburg Stadium
    :END:
-** 26. Serbia v Switzerland                                        :WorldCup:
+** [#C] 26. Serbia v Switzerland                                   :WorldCup:
    SCHEDULED: <2018-06-23 Sat 03:00>
    :PROPERTIES:
    :LOCATION: Kaliningrad Stadium
    :END:
-** 41. Serbia v Brazil                                             :WorldCup:
+** [#C] 41. Serbia v Brazil                                        :WorldCup:
    SCHEDULED: <2018-06-28 Thu 03:00>
    :PROPERTIES:
    :LOCATION: Otkrytiye Arena, Moscow
    :END:
-** 42. Switzerland v Costa Rica                                    :WorldCup:
+** [#C] 42. Switzerland v Costa Rica                               :WorldCup:
    SCHEDULED: <2018-06-28 Thu 03:00>
    :PROPERTIES:
    :LOCATION: Nizhny Novgorod Stadium
    :END:
-* Group F                                                   :WorldCup:GroupF:
+* [#C] Group F                                              :WorldCup:GroupF:
   - Note taken on [2018-06-14 Thu 08:29] \\
     - Germany
     - Mexico
     - Sweden
     - Korea Republic
-** 11. Germany v Mexico                                            :WorldCup:
+** [#C] 11. Germany v Mexico                                       :WorldCup:
    SCHEDULED: <2018-06-18 Mon 00:00>
    :PROPERTIES:
    :LOCATION:
    :END:
-** 12. Sweden v Korea Republic                                     :WorldCup:
+** [#C] 12. Sweden v Korea Republic                                :WorldCup:
    SCHEDULED: <2018-06-18 Mon 21:00>
    :PROPERTIES:
    :LOCATION: Nizhny Novgorod Stadium
    :END:
-** 28. Korea Republic v Mexico                                     :WorldCup:
+** [#C] 28. Korea Republic v Mexico                                :WorldCup:
    SCHEDULED: <2018-06-24 Sun 00:00>
    :PROPERTIES:
    :LOCATION: Rostov-on-Don Stadium
    :END:
-** 27. Germany v Sweden                                            :WorldCup:
+** [#C] 27. Germany v Sweden                                       :WorldCup:
    SCHEDULED: <2018-06-24 Sun 03:00>
    :PROPERTIES:
    :LOCATION: Fisht Stadium, Sochi
    :END:
-** 44. Mexico v Sweden                                             :WorldCup:
+** [#C] 44. Mexico v Sweden                                        :WorldCup:
    SCHEDULED: <2018-06-27 Wed 23:00>
    :PROPERTIES:
    :LOCATION: Ekaterinburg Stadium
    :END:
-** 43. Korea Republic v Germany                                    :WorldCup:
+** [#C] 43. Korea Republic v Germany                               :WorldCup:
    SCHEDULED: <2018-06-27 Wed 23:00>
    :PROPERTIES:
    :LOCATION: Kazan Arena
    :END:
-* Group G                                                   :WorldCup:GroupE:
+* [#C] Group G                                              :WorldCup:GroupE:
   - Note taken on [2018-06-14 Thu 08:30] \\
     - Belgium
     - Panama
     - Tunisia
     - England
   Belgium, Panama, Tunisia, England
-** 13. Belgium v Panama                                            :WorldCup:
+** [#C] 13. Belgium v Panama                                       :WorldCup:
    SCHEDULED: <2018-06-19 Tue 00:00>
    :PROPERTIES:
    :LOCATION: Fisht Stadium, Sochi
    :END:
-** 14. Tunisia v England                                           :WorldCup:
+** [#C] 14. Tunisia v England                                      :WorldCup:
    SCHEDULED: <2018-06-19 Tue 03:00>
    :PROPERTIES:
    :LOCATION: Volgograd Stadium
    :END:
-** 29. Belgium v Tunisia                                           :WorldCup:
+** [#C] 29. Belgium v Tunisia                                      :WorldCup:
    SCHEDULED: <2018-06-23 Sat 21:00>
    :PROPERTIES:
    :LOCATION: Otkrytiye Arena, Moscow
    :END:
-** 30. England v Panama                                            :WorldCup:
+** [#C] 30. England v Panama                                       :WorldCup:
    SCHEDULED: <2018-06-24 Sun 21:00>
    :PROPERTIES:
    :LOCATION: Nizhny Novgorod Stadium
    :END:
-** 46. Panama v Tunisia                                            :WorldCup:
+** [#C] 46. Panama v Tunisia                                       :WorldCup:
    SCHEDULED: <2018-06-29 Fri 03:00>
    :PROPERTIES:
    :LOCATION: Saransk Stadium
    :END:
-** 45. England v Belgium                                           :WorldCup:
+** [#C] 45. England v Belgium                                      :WorldCup:
    SCHEDULED: <2018-06-29 Fri 03:00>
    :PROPERTIES:
    :LOCATION: Kaliningrad Stadium
    :END:
-* Group H                                                   :WorldCup:GroupH:
+* [#B] Group H                                              :WorldCup:GroupH:
   - Note taken on [2018-06-14 Thu 08:30] \\
     - Colombia
     - Japan
     - Poland
     - Senegal
-** 16. Colombia v Japan                                            :WorldCup:
+** [#A] 16. Colombia v Japan                                       :WorldCup:
    SCHEDULED: <2018-06-19 Tue 21:00>
    :PROPERTIES:
    :LOCATION: Saransk Stadium
    :END:
-** 15. Poland v Senegal                                            :WorldCup:
+** [#C] 15. Poland v Senegal                                       :WorldCup:
    SCHEDULED: <2018-06-20 Wed 00:00>
    :PROPERTIES:
    :LOCATION: Otkrytiye Arena, Moscow
    :END:
-** 32. Japan v Senegal                                             :WorldCup:
+** [#A] 32. Japan v Senegal                                        :WorldCup:
    SCHEDULED: <2018-06-25 Mon 00:00>
    :PROPERTIES:
    :LOCATION: Ekaterinburg Stadium
    :END:
-** 31. Poland v Colombia                                           :WorldCup:
+** [#C] 31. Poland v Colombia                                      :WorldCup:
    SCHEDULED: <2018-06-25 Mon 03:00>
    :PROPERTIES:
    :LOCATION: Kazan Arena
    :END:
-** 47. Japan v Poland                                              :WorldCup:
+** [#A] 47. Japan v Poland                                         :WorldCup:
    SCHEDULED: <2018-06-28 Thu 23:00>
    :PROPERTIES:
    :LOCATION: Volgograd Stadium
    :END:
-** 48. Senegal v Colombia                                          :WorldCup:
+** [#C] 48. Senegal v Colombia                                     :WorldCup:
    SCHEDULED: <2018-06-28 Thu 23:00>
    :PROPERTIES:
    :LOCATION: Samara Stadium
    :END:
-* Round of 16                                            :WorldCup:Roundof16:
-** 50. Winner Group C v Runner-up Group D                          :WorldCup:
+* [#B] Round of 16                                       :WorldCup:Roundof16:
+** [#B] 50. Winner Group C v Runner-up Group D                     :WorldCup:
    SCHEDULED: <2018-06-30 Sat 23:00>
    :PROPERTIES:
    :LOCATION: Kazan Arena
    :END:
-** 49. Winner Group A v Runner-up Group B                          :WorldCup:
+** [#B] 49. Winner Group A v Runner-up Group B                     :WorldCup:
    SCHEDULED: <2018-07-01 Sun 03:00>
    :PROPERTIES:
    :LOCATION: Fisht Stadium, Sochi
    :END:
-** 51. Winner Group B v Runner-up Group A                          :WorldCup:
+** [#B] 51. Winner Group B v Runner-up Group A                     :WorldCup:
    SCHEDULED: <2018-07-01 Sun 23:00>
    :PROPERTIES:
    :LOCATION: Luzhniki Stadium, Moscow
    :END:
-** 52. Winner Group D v Runner-up Group C                          :WorldCup:
+** [#B] 52. Winner Group D v Runner-up Group C                     :WorldCup:
    SCHEDULED: <2018-07-02 Mon 03:00>
    :PROPERTIES:
    :LOCATION: Nizhny Novgorod Stadium
    :END:
-** 53. Winner Group E v Runner-up Group F                          :WorldCup:
+** [#B] 53. Winner Group E v Runner-up Group F                     :WorldCup:
    SCHEDULED: <2018-07-02 Mon 23:00>
    :PROPERTIES:
    :LOCATION: Samara Stadium
    :END:
-** 54. Winner Group G v Runner-up Group H                          :WorldCup:
+** [#B] 54. Winner Group G v Runner-up Group H                     :WorldCup:
    SCHEDULED: <2018-07-03 Tue 03:00>
    :PROPERTIES:
    :LOCATION: Rostov-on-Don Stadium
    :END:
-** 55. Winner Group F v Runner-up Group E                          :WorldCup:
+** [#B] 55. Winner Group F v Runner-up Group E                     :WorldCup:
    SCHEDULED: <2018-07-03 Tue 23:00>
    :PROPERTIES:
    :LOCATION: Saint Petersburg Stadium
    :END:
-** 56. Winner Group H v Runner-up Group G                          :WorldCup:
+** [#B] 56. Winner Group H v Runner-up Group G                     :WorldCup:
    SCHEDULED: <2018-07-04 Wed 03:00>
    :PROPERTIES:
    :LOCATION: Otkrytiye Arena, Moscow
    :END:
-* Quarter Finals                                     :WorldCup:QuarterFinals:
-** 57. Winner Match 49 v Winner Match 50                           :WorldCup:
+* [#B] Quarter Finals                                :WorldCup:QuarterFinals:
+** [#B] 57. Winner Match 49 v Winner Match 50                      :WorldCup:
    SCHEDULED: <2018-07-06 Fri 23:00>
    :PROPERTIES:
    :LOCATION: Nizhny Novgorod Stadium
    :END:
-** 58. Winner Match 53 v Winner Match 54                           :WorldCup:
+** [#B] 58. Winner Match 53 v Winner Match 54                      :WorldCup:
    SCHEDULED: <2018-07-07 Sat 03:00>
    :PROPERTIES:
    :LOCATION: Kazan Arena
    :END:
-** 60. Winner Match 55 v Winner Match 56                           :WorldCup:
+** [#B] 60. Winner Match 55 v Winner Match 56                      :WorldCup:
    SCHEDULED: <2018-07-07 Sat 23:00>
    :PROPERTIES:
    :LOCATION: Samara Stadium
    :END:
-** 59. Winner Match 51 v Winner Match 52                           :WorldCup:
+** [#B] 59. Winner Match 51 v Winner Match 52                      :WorldCup:
    SCHEDULED: <2018-07-08 Sun 03:00>
    :PROPERTIES:
    :LOCATION: Fisht Stadium, Sochi
    :END:
-* Semi Finals                                           :WorldCup:SemiFinals:
-** 61. Winner Match 57 v Winner Match 58                           :WorldCup:
+* [#B] Semi Finals                                      :WorldCup:SemiFinals:
+** [#A] 61. Winner Match 57 v Winner Match 58                      :WorldCup:
    SCHEDULED: <2018-07-11 Wed 03:00>
    :PROPERTIES:
    :LOCATION: Saint Petersburg Stadium
    :END:
-** 62. Winner Match 59 v Winner Match 60                           :WorldCup:
+** [#A] 62. Winner Match 59 v Winner Match 60                      :WorldCup:
    SCHEDULED: <2018-07-12 Thu 03:00>
    :PROPERTIES:
    :LOCATION: Luzhniki Stadium, Moscow
    :END:
-* Third Place Match                                :WorldCup:ThirdPlaceMatch:
-** 63. Losers Match 61 v Losers Match 62                           :WorldCup:
+* [#C] Third Place Match                           :WorldCup:ThirdPlaceMatch:
+** [#C] 63. Losers Match 61 v Losers Match 62                      :WorldCup:
    SCHEDULED: <2018-07-14 Sat 23:00>
    :PROPERTIES:
    :LOCATION: Saint Petersburg Stadium
    :END:
-* Final                                                      :WorldCup:Final:
-** 64. Winner Match 61 v Winner Match 62                  :WorldCup:WorldCup:
+* [#B] Final                                                 :WorldCup:Final:
+** [#A] 64. Winner Match 61 v Winner Match 62             :WorldCup:WorldCup:
    SCHEDULED: <2018-07-16 Mon 05:00>
    :PROPERTIES:
    :LOCATION: Luzhniki Stadium, Moscow
