@@ -83,10 +83,10 @@
    :LOCATION: Kaliningrad Stadium
    :END:
 * [#C] Group C                                              :WorldCup:GroupC:
-    France
-    Australia
-    Peru
-    Denmark
+    - France
+    - Australia
+    - Peru
+    - Denmark
 ** [#C] 5. France v Australia                                      :WorldCup:
    SCHEDULED: <2018-06-16 Sat 19:00>
    :PROPERTIES:
