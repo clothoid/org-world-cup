@@ -12,11 +12,16 @@
       (org-timestamp-change n 'hour))))
 #+end_src
 
+* Opening Ceremony
+  SCHEDULED: <2018-06-14 Thu 22:00>
+  :PROPERTIES:
+  :LOCATION: Luzhniki Stadium, Moscow
+  :END:
 * [#C] Group A                                              :WorldCup:GroupA:
-    - Russia
-    - Saudi Arabia
-    - Egypt
-    - Uruguay
+  - Russia
+  - Saudi Arabia
+  - Egypt
+  - Uruguay
 ** [#C] 1. Russia v Saudi Arabia                                   :WorldCup:
    SCHEDULED: <2018-06-15 Fri 00:00>
    :PROPERTIES:
@@ -48,10 +53,10 @@
    :LOCATION: Volgograd Stadium
    :END:
 * [#C] Group B                                              :WorldCup:GroupB:
-    - Morocco
-    - Iran
-    - Portugal
-    - Spain
+  - Morocco
+  - Iran
+  - Portugal
+  - Spain
 ** [#C] 3. Morocco v Iran                                          :WorldCup:
    SCHEDULED: <2018-06-16 Sat 00:00>
    :PROPERTIES:
@@ -83,10 +88,10 @@
    :LOCATION: Kaliningrad Stadium
    :END:
 * [#C] Group C                                              :WorldCup:GroupC:
-    - France
-    - Australia
-    - Peru
-    - Denmark
+  - France
+  - Australia
+  - Peru
+  - Denmark
 ** [#C] 5. France v Australia                                      :WorldCup:
    SCHEDULED: <2018-06-16 Sat 19:00>
    :PROPERTIES:
@@ -118,10 +123,10 @@
    :LOCATION: Fisht Stadium, Sochi
    :END:
 * [#C] Group D                                              :WorldCup:GroupD:
-    - Argentina
-    - Iceland
-    - Croatia
-    - Nigeria
+  - Argentina
+  - Iceland
+  - Croatia
+  - Nigeria
 ** [#C] 7. Argentina v Iceland                                     :WorldCup:
    SCHEDULED: <2018-06-16 Sat 22:00>
    :PROPERTIES:
@@ -153,10 +158,10 @@
    :LOCATION: Rostov-on-Don Stadium
    :END:
 * [#C] Group E                                              :WorldCup:GroupE:
-    - Costa Rica
-    - Serbia
-    - Brazil
-    - Switzerland
+  - Costa Rica
+  - Serbia
+  - Brazil
+  - Switzerland
 ** [#C] 10. Costa Rica v Serbia                                    :WorldCup:
    SCHEDULED: <2018-06-17 Sun 21:00>
    :PROPERTIES:
@@ -188,10 +193,10 @@
    :LOCATION: Nizhny Novgorod Stadium
    :END:
 * [#C] Group F                                              :WorldCup:GroupF:
-    - Germany
-    - Mexico
-    - Sweden
-    - Korea Republic
+  - Germany
+  - Mexico
+  - Sweden
+  - Korea Republic
 ** [#C] 11. Germany v Mexico                                       :WorldCup:
    SCHEDULED: <2018-06-18 Mon 00:00>
    :PROPERTIES:
@@ -223,10 +228,10 @@
    :LOCATION: Kazan Arena
    :END:
 * [#C] Group G                                              :WorldCup:GroupE:
-    - Belgium
-    - Panama
-    - Tunisia
-    - England
+  - Belgium
+  - Panama
+  - Tunisia
+  - England
   Belgium, Panama, Tunisia, England
 ** [#C] 13. Belgium v Panama                                       :WorldCup:
    SCHEDULED: <2018-06-19 Tue 00:00>
@@ -259,10 +264,10 @@
    :LOCATION: Kaliningrad Stadium
    :END:
 * [#B] Group H                                              :WorldCup:GroupH:
-    - Colombia
-    - Japan
-    - Poland
-    - Senegal
+  - Colombia
+  - Japan
+  - Poland
+  - Senegal
 ** [#A] 16. Colombia v Japan                                       :WorldCup:
    SCHEDULED: <2018-06-19 Tue 21:00>
    :PROPERTIES:
