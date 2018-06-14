@@ -13,7 +13,6 @@
 #+end_src
 
 * [#C] Group A                                              :WorldCup:GroupA:
-  - Note taken on [2018-06-14 Thu 08:27] \\
     - Russia
     - Saudi Arabia
     - Egypt
@@ -49,7 +48,6 @@
    :LOCATION: Volgograd Stadium
    :END:
 * [#C] Group B                                              :WorldCup:GroupB:
-  - Note taken on [2018-06-14 Thu 08:27] \\
     - Morocco
     - Iran
     - Portugal
@@ -85,7 +83,6 @@
    :LOCATION: Kaliningrad Stadium
    :END:
 * [#C] Group C                                              :WorldCup:GroupC:
-  - Note taken on [2018-06-14 Thu 08:28] \\
     France
     Australia
     Peru
@@ -121,7 +118,6 @@
    :LOCATION: Fisht Stadium, Sochi
    :END:
 * [#C] Group D                                              :WorldCup:GroupD:
-  - Note taken on [2018-06-14 Thu 08:28] \\
     - Argentina
     - Iceland
     - Croatia
@@ -157,7 +153,6 @@
    :LOCATION: Rostov-on-Don Stadium
    :END:
 * [#C] Group E                                              :WorldCup:GroupE:
-  - Note taken on [2018-06-14 Thu 08:28] \\
     - Costa Rica
     - Serbia
     - Brazil
@@ -193,7 +188,6 @@
    :LOCATION: Nizhny Novgorod Stadium
    :END:
 * [#C] Group F                                              :WorldCup:GroupF:
-  - Note taken on [2018-06-14 Thu 08:29] \\
     - Germany
     - Mexico
     - Sweden
@@ -229,7 +223,6 @@
    :LOCATION: Kazan Arena
    :END:
 * [#C] Group G                                              :WorldCup:GroupE:
-  - Note taken on [2018-06-14 Thu 08:30] \\
     - Belgium
     - Panama
     - Tunisia
@@ -266,7 +259,6 @@
    :LOCATION: Kaliningrad Stadium
    :END:
 * [#B] Group H                                              :WorldCup:GroupH:
-  - Note taken on [2018-06-14 Thu 08:30] \\
     - Colombia
     - Japan
     - Poland
