@@ -3,7 +3,7 @@
 ** All times are set to Japanese Time (UTC+9)
 
    Use the following function to change it.
-   e.g., set =n= to -9 hour for Central European Summer Time (UTC+0).
+   e.g., set =n= to -9 hour for Coordinated Universal Time(UTC+0).
    Copy code block to org-world-cup-2018.org and use =C-c= to eval it.
 
    #+HEADERS: :var n=-1
