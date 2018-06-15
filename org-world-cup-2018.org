@@ -12,7 +12,7 @@
       (org-timestamp-change n 'hour))))
 #+end_src
 
-* Opening Ceremony
+* DONE Opening Ceremony
   SCHEDULED: <2018-06-14 Thu 22:00>
   :PROPERTIES:
   :LOCATION: Luzhniki Stadium, Moscow
@@ -22,7 +22,7 @@
   - Saudi Arabia
   - Egypt
   - Uruguay
-** [#C] 1. Russia v Saudi Arabia                                   :WorldCup:
+** DONE [#C] 1. Russia v Saudi Arabia                              :WorldCup:
    SCHEDULED: <2018-06-15 Fri 00:00>
    :PROPERTIES:
    :LOCATION: Luzhniki Stadium, Moscow
