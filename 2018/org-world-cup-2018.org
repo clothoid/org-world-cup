@@ -27,7 +27,7 @@
    :PROPERTIES:
    :LOCATION: Luzhniki Stadium, Moscow
    :END:
-** [#C] 2. Egypt v Uruguay                                         :WorldCup:
+** DONE [#C] 2. Egypt v Uruguay                                    :WorldCup:
    SCHEDULED: <2018-06-15 Fri 21:00>
    :PROPERTIES:
    :LOCATION: Ekaterinburg Stadium
@@ -57,12 +57,12 @@
   - Iran
   - Portugal
   - Spain
-** [#C] 3. Morocco v Iran                                          :WorldCup:
+** DONE [#C] 3. Morocco v Iran                                     :WorldCup:
    SCHEDULED: <2018-06-16 Sat 00:00>
    :PROPERTIES:
    :LOCATION: Saint Petersburg Stadium
    :END:
-** [#C] 4. Portugal v Spain                                        :WorldCup:
+** DONE [#C] 4. Portugal v Spain                                   :WorldCup:
    SCHEDULED: <2018-06-16 Sat 03:00>
    :PROPERTIES:
    :LOCATION: Fisht Stadium, Sochi
@@ -92,12 +92,12 @@
   - Australia
   - Peru
   - Denmark
-** [#C] 5. France v Australia                                      :WorldCup:
+** DONE [#C] 5. France v Australia                                 :WorldCup:
    SCHEDULED: <2018-06-16 Sat 19:00>
    :PROPERTIES:
    :LOCATION: Kazan Arena
    :END:
-** [#C] 6. Peru v Denmark                                          :WorldCup:
+** DONE [#C] 6. Peru v Denmark                                     :WorldCup:
    SCHEDULED: <2018-06-17 Sun 01:00>
    :PROPERTIES:
    :LOCATION: Saransk Stadium
@@ -127,12 +127,12 @@
   - Iceland
   - Croatia
   - Nigeria
-** [#C] 7. Argentina v Iceland                                     :WorldCup:
+** DONE [#C] 7. Argentina v Iceland                                :WorldCup:
    SCHEDULED: <2018-06-16 Sat 22:00>
    :PROPERTIES:
    :LOCATION: Otkrytiye Arena, Moscow
    :END:
-** [#C] 8. Croatia v Nigeria                                       :WorldCup:
+** DONE [#C] 8. Croatia v Nigeria                                  :WorldCup:
    SCHEDULED: <2018-06-17 Sun 04:00>
    :PROPERTIES:
    :LOCATION: Kaliningrad Stadium
@@ -162,12 +162,12 @@
   - Serbia
   - Brazil
   - Switzerland
-** [#C] 10. Costa Rica v Serbia                                    :WorldCup:
+** DONE [#C] 10. Costa Rica v Serbia                               :WorldCup:
    SCHEDULED: <2018-06-17 Sun 21:00>
    :PROPERTIES:
    :LOCATION: Samara Stadium
    :END:
-** [#C] 9. Brazil v Switzerland                                    :WorldCup:
+** DONE [#C] 9. Brazil v Switzerland                               :WorldCup:
    SCHEDULED: <2018-06-18 Mon 03:00>
    :PROPERTIES:
    :LOCATION: Rostov-on-Don Stadium
@@ -197,12 +197,12 @@
   - Mexico
   - Sweden
   - Korea Republic
-** [#C] 11. Germany v Mexico                                       :WorldCup:
+** DONE [#C] 11. Germany v Mexico                                  :WorldCup:
    SCHEDULED: <2018-06-18 Mon 00:00>
    :PROPERTIES:
    :LOCATION:
    :END:
-** [#C] 12. Sweden v Korea Republic                                :WorldCup:
+** DONE [#C] 12. Sweden v Korea Republic                           :WorldCup:
    SCHEDULED: <2018-06-18 Mon 21:00>
    :PROPERTIES:
    :LOCATION: Nizhny Novgorod Stadium
