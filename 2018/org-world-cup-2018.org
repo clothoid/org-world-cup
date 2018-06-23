@@ -32,12 +32,12 @@
    :PROPERTIES:
    :LOCATION: Ekaterinburg Stadium
    :END:
-** [#C] 17. Russia v Egypt                                         :WorldCup:
+** DONE [#C] 17. Russia v Egypt                                    :WorldCup:
    SCHEDULED: <2018-06-20 Wed 03:00>
    :PROPERTIES:
    :LOCATION: Saint Petersburg Stadium
    :END:
-** [#C] 18. Uruguay v Saudi Arabia                                 :WorldCup:
+** DONE [#C] 18. Uruguay v Saudi Arabia                            :WorldCup:
    SCHEDULED: <2018-06-21 Thu 00:00>
    :PROPERTIES:
    :LOCATION: Rostov-on-Don Stadium
@@ -67,12 +67,12 @@
    :PROPERTIES:
    :LOCATION: Fisht Stadium, Sochi
    :END:
-** [#C] 19. Portugal v Morocco                                     :WorldCup:
+** DONE [#C] 19. Portugal v Morocco                                :WorldCup:
    SCHEDULED: <2018-06-20 Wed 21:00>
    :PROPERTIES:
    :LOCATION: Luzhniki Stadium, Moscow
    :END:
-** [#C] 20. Iran v Spain                                           :WorldCup:
+** DONE [#C] 20. Iran v Spain                                      :WorldCup:
    SCHEDULED: <2018-06-21 Thu 03:00>
    :PROPERTIES:
    :LOCATION: Kazan Arena
@@ -102,12 +102,12 @@
    :PROPERTIES:
    :LOCATION: Saransk Stadium
    :END:
-** [#C] 22. Denmark v Australia                                    :WorldCup:
+** DONE [#C] 22. Denmark v Australia                               :WorldCup:
    SCHEDULED: <2018-06-21 Thu 21:00>
    :PROPERTIES:
    :LOCATION: Samara Stadium
    :END:
-** [#C] 21. France v Peru                                          :WorldCup:
+** DONE [#C] 21. France v Peru                                     :WorldCup:
    SCHEDULED: <2018-06-22 Fri 00:00>
    :PROPERTIES:
    :LOCATION: Ekaterinburg Stadium
@@ -137,7 +137,7 @@
    :PROPERTIES:
    :LOCATION: Kaliningrad Stadium
    :END:
-** [#C] 23. Argentina v Croatia                                    :WorldCup:
+** DONE [#C] 23. Argentina v Croatia                               :WorldCup:
    SCHEDULED: <2018-06-22 Fri 03:00>
    :PROPERTIES:
    :LOCATION: Nizhny Novgorod Stadium
@@ -172,7 +172,7 @@
    :PROPERTIES:
    :LOCATION: Rostov-on-Don Stadium
    :END:
-** [#C] 25. Brazil v Costa Rica                                    :WorldCup:
+** DONE [#C] 25. Brazil v Costa Rica                               :WorldCup:
    SCHEDULED: <2018-06-22 Fri 21:00>
    :PROPERTIES:
    :LOCATION: Saint Petersburg Stadium
@@ -233,12 +233,12 @@
   - Tunisia
   - England
   Belgium, Panama, Tunisia, England
-** [#C] 13. Belgium v Panama                                       :WorldCup:
+** DONE [#C] 13. Belgium v Panama                                  :WorldCup:
    SCHEDULED: <2018-06-19 Tue 00:00>
    :PROPERTIES:
    :LOCATION: Fisht Stadium, Sochi
    :END:
-** [#C] 14. Tunisia v England                                      :WorldCup:
+** DONE [#C] 14. Tunisia v England                                 :WorldCup:
    SCHEDULED: <2018-06-19 Tue 03:00>
    :PROPERTIES:
    :LOCATION: Volgograd Stadium
@@ -268,12 +268,12 @@
   - Japan
   - Poland
   - Senegal
-** [#A] 16. Colombia v Japan                                       :WorldCup:
+** DONE [#A] 16. Colombia v Japan                                  :WorldCup:
    SCHEDULED: <2018-06-19 Tue 21:00>
    :PROPERTIES:
    :LOCATION: Saransk Stadium
    :END:
-** [#C] 15. Poland v Senegal                                       :WorldCup:
+** DONE [#C] 15. Poland v Senegal                                  :WorldCup:
    SCHEDULED: <2018-06-20 Wed 00:00>
    :PROPERTIES:
    :LOCATION: Otkrytiye Arena, Moscow
