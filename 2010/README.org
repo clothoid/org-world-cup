@@ -1,0 +1,2 @@
+* imported form
+   - [[http://lists.gnu.org/archive/html/emacs-orgmode/2010-06/msg00217.html][(Orgmode) Worldcup + time zone question]]
