@@ -16,11 +16,3 @@
    #+end_src
   
   
-** Schedule imported from https://fixturedownload.com/download/fifa-world-cup-2018-RussianStandardTime.csv
-** Schedule verified from https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
-** Directly influenced by https://github.com/ruediger/org-world-cup2014
-** =[[https://en.wikipedia.org/wiki/File:Soccer_ball.svg][football.svg]]= can be used as a category icon.
-   It is a 16\times16 GFDL licensed SVG file.  Add =("Football"
-   "PATH-TO-FOOTBALL.SVG" nil nil :ascent center)= to
-   =org-agenda-category-icon-alist= to have org-mode display it in the
-   Agenda next to the Football category.
